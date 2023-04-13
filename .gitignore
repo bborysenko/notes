@@ -1,0 +1,5 @@
+.DS_Store
+logseq/.recycle
+logseq/bak/
+logseq/version-files/
+logseq/graphs-txid.edn
