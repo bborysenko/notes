@@ -3,3 +3,4 @@ logseq/.recycle
 logseq/bak/
 logseq/version-files/
 logseq/graphs-txid.edn
+pages/chatgpt__*.md
