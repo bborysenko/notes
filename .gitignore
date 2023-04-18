@@ -3,4 +3,8 @@ logseq/.recycle
 logseq/bak/
 logseq/version-files/
 logseq/graphs-txid.edn
+
+# Pages created by ChatGPT plugin
 pages/chatgpt__*.md
+pages/assistant.md
+pages/user.md
