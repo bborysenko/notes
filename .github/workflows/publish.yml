@@ -1,0 +1,36 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Publish Logseq graph
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Logseq Publish
+        uses: logseq/publish-spa@main
+        with:
+          dest: www
+
+      - name: Add .nojekyll file
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+
+      - name: Deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: www
+          clean: true
+          clean-exclude: |
+            CNAME
+            .nojekyll
