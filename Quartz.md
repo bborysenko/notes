@@ -1,0 +1,1 @@
+[Quartz](https://github.com/jackyzha0/quartz) is a static-site generator I use to publish my notes.

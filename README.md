@@ -1,0 +1,1 @@
+These are my notes taken with [[Obsidian]] and published with [[Quartz]].
