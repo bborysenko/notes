@@ -1,1 +1,0 @@
-[Obsidian](https://obsidian.md) is one of the applications I use for taking notes.

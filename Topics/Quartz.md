@@ -1,0 +1,1 @@
+[Quartz](https://github.com/jackyzha0/quartz) is a static-site generator designed to work seamlessly with [Obsidian](Obsidian.md).

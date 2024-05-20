@@ -1,0 +1,1 @@
+Cloudflare Pages is a web application hosting platform specifically designed for  **JAMstack websites** and **frontend developers**

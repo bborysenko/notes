@@ -1,0 +1,1 @@
+[Obsidian](https://obsidian.md) is a note-taking application that functions like a personal knowledge base.
