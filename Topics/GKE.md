@@ -1,6 +1,7 @@
 ---
 title: Google Kubernetes Engine (GKE)
 date: 2024-05-20
+updated: 2024-05-20
 ---
 
 [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) is the industry's first fully managed Kubernetes service with full Kubernetes API, 4-way autoscaling, release channels, and multi-cluster support.

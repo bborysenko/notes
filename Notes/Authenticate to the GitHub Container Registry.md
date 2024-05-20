@@ -1,8 +1,9 @@
 ---
 title: Authenticate to the GitHub Container Registry
-date: 2024-05-18
 tags:
   - github
+date: 2024-05-18
+updated: 2024-05-18
 ---
 To authenticate to the [Github Container Registry](../Topics/Github%20Container%20Registry.md), follow these steps:
 

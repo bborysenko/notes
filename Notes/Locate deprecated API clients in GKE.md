@@ -3,6 +3,7 @@ title: Locate deprecated API clients in GKE
 tags:
   - gke
 date: 2024-05-20
+updated: 2024-05-20
 ---
 Google Cloud takes infrastructure security seriously, and this is the reason why GKE control plane upgrades are applied periodically, and why [there is no option to disable this](https://cloud.google.com/kubernetes-engine/upgrades#automatic_cp_upgrades). In my experience, in most cases this happened without any issues. But after a recent upgrade of one of GKE clusters, I started seeing the following warnings in the Google Cloud console. 
 
