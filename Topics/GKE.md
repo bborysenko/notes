@@ -7,4 +7,4 @@ date: 2024-05-20
 
 ## Notes
 
-- [Locate deprecated API clients in GKE](Notes/Locate%20deprecated%20API%20clients%20in%20GKE.md)
+- [Locate deprecated API clients in GKE](../Notes/Locate%20deprecated%20API%20clients%20in%20GKE.md)
