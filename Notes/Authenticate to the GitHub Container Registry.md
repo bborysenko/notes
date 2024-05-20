@@ -1,7 +1,10 @@
 ---
+title: Authenticate to the GitHub Container Registry
 date: 2024-05-18
+tags:
+  - github
 ---
-To authenticate to the [[Topics/Github Container Registry]], follow these steps:
+To authenticate to the [Github Container Registry](../Topics/Github%20Container%20Registry.md), follow these steps:
 
 1. **Generate a Personal Access Token:** Navigate to the [New personal access token (classic)](https://github.com/settings/tokens/new?scopes=write:packages,delete:packages) page on GitHub and create a new token with the `write:packages` and `delete:packages` scopes.
 2. **Configure Your Environment:** Save your personal access token and GitHub username as environment variables:
