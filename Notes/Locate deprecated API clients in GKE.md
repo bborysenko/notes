@@ -1,5 +1,6 @@
 ---
 title: Locate deprecated API clients in GKE
+description: Learn how to identify the deprecated API clients in GKE to ensure your Kubernetes clusters remain secure and efficient
 tags:
   - gke
 date: 2024-05-20

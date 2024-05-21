@@ -1,5 +1,6 @@
 ---
 title: Managed doesn't mean maintenance-free
+description: Learn why managed services like Google Cloud require proactive maintenance for optimal performance and security
 tags:
   - google-cloud
 date: 2024-05-20
