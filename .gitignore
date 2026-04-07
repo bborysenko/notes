@@ -1,0 +1,17 @@
+# Ignore everything
+*
+!.gitignore
+
+# Track Obsidian settings (exclude device-specific noise)
+!.obsidian/
+!.obsidian/**
+.obsidian/workspace.json
+
+# Track Claude Code settings (exclude local overrides)
+!.claude/
+!.claude/**
+!CLAUDE.md
+.claude/settings.local.json
+
+# Public notes (add as needed)
+# !Setting Up My Obsidian Vault.md
