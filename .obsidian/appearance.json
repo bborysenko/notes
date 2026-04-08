@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Baseline",
+  "showRibbon": false,
+  "interfaceFontFamily": "iA Writer Quattro V",
+  "textFontFamily": "iA Writer Quattro V",
+  "monospaceFontFamily": "iA Writer Mono V",
+  "accentColor": "#45d6ad"
+}

@@ -1,1 +1,7 @@
-{}
+{
+  "attachmentFolderPath": "Assets",
+  "userIgnoreFilters": [
+    "Assets/",
+    "Templates/"
+  ]
+}

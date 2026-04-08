@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1775606427437,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1775606439901,
+          "path": "Books.base",
+          "title": "Books"
+        },
+        {
+          "type": "file",
+          "ctime": 1775608359132,
+          "path": "People.base",
+          "title": "People"
+        },
+        {
+          "type": "file",
+          "ctime": 1775608346685,
+          "path": "Sources.base",
+          "title": "Sources"
+        },
+        {
+          "type": "file",
+          "ctime": 1775608372484,
+          "path": "Writings.base",
+          "title": "Writtings"
+        }
+      ],
+      "title": "Collections"
+    }
+  ]
+}

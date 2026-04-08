@@ -1,0 +1,41 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Default",
+	"behavior": "create",
+	"noteNameFormat": "{{url|replace:\"https://\":\"~\"|replace:\"http://\":\"~\"|replace:\"/\":\"~\"}}~{{date|date:YYYY-MM-DD}}",
+	"path": "Sources",
+	"noteContentFormat": "{{content}}",
+	"properties": [
+		{
+			"name": "source",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "author",
+			"value": "{{author}}",
+			"type": "multitext"
+		},
+		{
+			"name": "published",
+			"value": "{{published}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "",
+			"type": "text"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		}
+	],
+	"triggers": []
+}
