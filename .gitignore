@@ -21,7 +21,6 @@
 # Track Claude Code settings (exclude local overrides)
 !.claude/
 !.claude/**
-!CLAUDE.md
 .claude/settings.local.json
 
 # Public notes (add as needed)
