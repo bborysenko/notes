@@ -25,12 +25,12 @@ A PreToolUse hook (`.claude/hooks/write-boundary.ts`) enforces this. The agent c
 
 **Tags** handle all organization. No frontmatter properties for organizing notes.
 
-- `#area/{context}` for work context: career, writing, learning, or company/client names
+- `#areas/{context}` for work context: career, writing, learning, or company/client names
 - `#collections/{name}` for grouping: books, people, writings
-- `#keyword/{topic}` for topics: leadership, platform-engineering
+- `#keywords/{topic}` for topics: leadership, platform-engineering
 - `#status/{value}` for state: to-read, reading, done, draft, published
 
-Tags are flat, two levels max. No nesting like `#area/company/client`.
+Tags are flat, two levels max. No nesting like `#areas/company/client`.
 
 **Properties** (frontmatter) only on Sources. Web Clipper fills source, title, author, published, created. Claude Code fills description and suggests keyword tags based on existing ones.
 

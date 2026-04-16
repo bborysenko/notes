@@ -7,8 +7,8 @@
   "baseline-style@@h5-font": "Inter",
   "baseline-style@@h6-font": "Inter",
   "baseline-style@@colorful-folders": "colorful-folders-off",
-  "baseline-style@@color-scheme-light": "things-light",
-  "baseline-style@@color-scheme-dark": "things-dark",
+  "baseline-style@@color-scheme-light": "flexoki-light",
+  "baseline-style@@color-scheme-dark": "flexoki-dark",
   "baseline-style@@unstyled-tags": true,
   "baseline-style@@tag-radius": "8px",
   "baseline-style@@hover-sidedock": false,
@@ -29,5 +29,7 @@
   "baseline-style@@hide-vault-switcher-off": false,
   "baseline-style@@hover-ribbon": false,
   "baseline-style@@full-item-name": false,
-  "baseline-style@@bold-folders": false
+  "baseline-style@@bold-folders": false,
+  "baseline-style@@link-decoration": "none",
+  "baseline-style@@link-external-decoration": "none"
 }

@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "",
+    "attachFormat": "${date}",
+    "type": "GLOBAL",
+    "extensionOverride": []
+  },
+  "dateFormat": "YYYYMMDDHHmmss",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {
+    "Work": {
+      "attachmentRoot": "Work",
+      "saveAttE": "inFolderBelow",
+      "attachmentPath": "Assets",
+      "attachFormat": "${date}",
+      "type": "FOLDER"
+    }
+  },
+  "disableNotification": false
+}
