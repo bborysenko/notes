@@ -1,6 +1,7 @@
 # Ignore everything
 *
 !.gitignore
+!.rgignore
 
 # Track Obsidian settings
 !.obsidian/
